@@ -15,13 +15,6 @@ Designed with a clean UI and smooth user experience, this app demonstrates pract
   </a>
 </p>
 
----
-
-## 📸 Preview
-
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLUkkqct_zlsxQ9hqEQ9MZZRzUpRE9PHO7Aw&s" alt="BMI App Preview" width="90%" />
-</p>
 
 ---
 
