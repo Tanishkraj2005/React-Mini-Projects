@@ -10,7 +10,7 @@ Designed with a clean UI and smooth user experience, this app demonstrates pract
 ## 🚀 Live Demo
 
 <p align="center">
-  <a href="https://your-live-link-here.com" target="_blank">
+  <a href="https://bmi-08.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/💪%20Try%20Now-Live%20Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -20,7 +20,7 @@ Designed with a clean UI and smooth user experience, this app demonstrates pract
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x450.png?text=BMI+Calculator+Preview" alt="BMI App Preview" width="90%" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLUkkqct_zlsxQ9hqEQ9MZZRzUpRE9PHO7Aw&s" alt="BMI App Preview" width="90%" />
 </p>
 
 ---
